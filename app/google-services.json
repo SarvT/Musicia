@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992529504409",
+    "project_id": "musicia-494a0",
+    "storage_bucket": "musicia-494a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992529504409:android:c6347829bc292b235e8008",
+        "android_client_info": {
+          "package_name": "com.example.musicia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4y7TSKRV3chKWeqKSEhNjClovHrADsEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
