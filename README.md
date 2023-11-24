@@ -18,7 +18,7 @@ Harmony Hub is a cutting-edge Android music player application designed to deliv
 4. **Advanced Controls:**
    Enjoy advanced playback controls, including play, pause, skip, repeat, and shuffle. Adjust playback speed for a customized listening experience.
 
-6. **Offline Mode:**
+6. **Online Mode:**
    Download your favorite tracks for offline listening, ensuring uninterrupted enjoyment in areas with limited internet connectivity.
 
 8. **Album Art Display:**
